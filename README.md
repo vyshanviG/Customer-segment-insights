@@ -29,7 +29,10 @@ Output Files
 	•	RFM_Segmentation.ipynb – Python code for data prep
 	•	rfm_segmented_customers.csv – Final RFM table
 	•	RFM_Dashboard.pbix – Power BI file
-	•	README.md – Project overview
+
+ <img width="960" height="480" alt="Screenshot 2025-07-31 230326" src="https://github.com/user-attachments/assets/a9f7af5b-1bbd-4d52-99ba-74d160d3302a" />
+
+ 
 
  Key Insights
 	•	VIPs contribute the highest revenue – loyalty programs recommended
